@@ -1,0 +1,55 @@
+[33mcommit 279eadc239ba2be88c1d68b171863da71242d533[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 15:45:24 2021 -0300
+
+    Revert "Nova Funcionalidade Revert"
+    
+    This reverts commit d3c60331ebd75e00738b57b39bb53bf45ab96ad2.
+
+[33mcommit d3c60331ebd75e00738b57b39bb53bf45ab96ad2[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 15:37:33 2021 -0300
+
+    Nova Funcionalidade Revert
+
+[33mcommit 6a045b664c963240be6388e24a2b962e3e680e22[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 15:16:19 2021 -0300
+
+    Adicionando GITIGNORE ao projeto
+
+[33mcommit 5f40db87019a297270ddd74624588fe4e74aaff0[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 14:58:22 2021 -0300
+
+    Adicionando js
+
+[33mcommit dc62b0736354f34a3caf298492e15016bf1b4c51[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 14:18:22 2021 -0300
+
+    Atualizando o README mais uma vez
+
+[33mcommit 1e95eee2d45e47ef8e81bba67ff2e791fc1ee7f0[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 11:18:16 2021 -0300
+
+    Atualizando README
+
+[33mcommit c566512df6f19bfa6f8801ac6bfec81a1c6ca15d[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 10:22:29 2021 -0300
+
+    Alterando o README
+
+[33mcommit 33be5c97864497dbb9777f5b5858ac2905f0faf0[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Mon Sep 6 09:56:43 2021 -0300
+
+    Criando o style
+
+[33mcommit 22fe3f02c139650ff585107ef4ec82b70f21210e[m
+Author: Cesar Cavichioli <cesar.cavichioli@sequor.com.br>
+Date:   Fri Sep 3 15:15:39 2021 -0300
+
+    Primeiro Commit
